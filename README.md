@@ -1,6 +1,6 @@
 # firebase_app
 
-A new Flutter application.
+Aplicação com o ambiente configurado para utilizar a plataforma Firebase.
 
 ## Getting Started
 
